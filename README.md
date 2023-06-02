@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sammybakri
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning computer science at the University of Minnesota in the Twin Cities
+- 🌱 I’m currently a rising senior learning computer science at the University of Minnesota in the Twin Cities
 
 <!---
 sammybakri/sammybakri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
